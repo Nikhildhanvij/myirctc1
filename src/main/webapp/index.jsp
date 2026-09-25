@@ -33,8 +33,8 @@
     < label for="brother"><b>brother Name</b></label>
     <input type="text" placeholder="brother Name" name="brother" id="brother" required>
 
-    < label for="brother"><b>brother Name</b></label>
-    <input type="text" placeholder="brother Name" name="brother" id="brother" required>
+    < label for="Sister"><b>sister Name</b></label>
+    <input type="text" placeholder="sister Name" name="sister" id="sister" required>
 
     <hr>
 
