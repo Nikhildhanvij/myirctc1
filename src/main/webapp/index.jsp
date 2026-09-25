@@ -30,11 +30,11 @@
     <input type="text" placeholder="Father Name" name="Father" id="father" required>
 
 
-    < label for="brother"><b>brother Name</b></label>
-    <input type="text" placeholder="brother Name" name="brother" id="brother" required>
+    < label for="brother"><b>Brother Name</b></label>
+    <input type="text" placeholder="Brother Name" name="brother" id="brother" required>
 
-    < label for="Sister"><b>sister Name</b></label>
-    <input type="text" placeholder="sister Name" name="sister" id="sister" required>
+    < label for="sister"><b>Sister Name</b></label>
+    <input type="text" placeholder="Sister Name" name="sister" id="sister" required>
 
     <hr>
 
